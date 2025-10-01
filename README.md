@@ -1,7 +1,6 @@
                   
-# Fine-Tuning PyTorch Models (Swin Transformer, ResNet18, and MobileNet) for Image Classification
-
-This repository contains fine tuned pytorch models (Swintransformer, Resnet18 and Mobilenet) for seziure cassification using stitched ECG spectrograms.
+# Fine-Tuning Deep Learning Architectures in PyTorch (Swin Transformer, ResNet18, MobileNet) for Image Classification
+In this repository we fine-tuned three popular deep learning architectures — Swin Transformer, ResNet18, and MobileNet — using their PyTorch implementations for seizure classification on stitched ECG spectrograms.
 
 ---
 
